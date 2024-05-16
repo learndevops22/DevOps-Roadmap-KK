@@ -3,6 +3,7 @@
 Blue-Green Deployment
 
 Monitoring (prom & grafana)
+https://github.com/Coit-IO/coit-simple-microservice.git
 
 Log Monitoring
 
