@@ -16,7 +16,7 @@ Kong api gateway
 
 Helm deployment
 
-EKS
+EKS - cluster-auto-scaler
 
 RBAC
 
@@ -24,3 +24,4 @@ Certficates
 
 Ingress
 
+HPA
