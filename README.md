@@ -26,3 +26,5 @@ Certficates
 Ingress
 
 HPA
+
+kyverno https://github.com/Coit-IO/coit-simple-microservice/tree/develop/resource-manifests/kyverno         cluster policies
