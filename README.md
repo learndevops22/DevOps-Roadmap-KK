@@ -14,6 +14,7 @@ Argo_CD
 DevSecOPS pipeline - Trivy
 
 Kong api gateway
+https://www.udemy.com/course/microservices-with-kubernetes-docker-api-gateway-kong/?couponCode=LEADERSALE24B
 
 Helm deployment
 
