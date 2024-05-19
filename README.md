@@ -16,6 +16,9 @@ DevSecOPS pipeline - Trivy
 Kong api gateway
 https://www.udemy.com/course/microservices-with-kubernetes-docker-api-gateway-kong/?couponCode=LEADERSALE24B
 
+or 
+aws api gateway https://www.udemy.com/course/build-apis-with-amazon-api-gateway/?couponCode=LEADERSALE24B
+
 Helm deployment
 
 EKS - cluster-auto-scaler
